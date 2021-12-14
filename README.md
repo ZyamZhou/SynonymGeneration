@@ -6,8 +6,7 @@ Generate synonyms based on the reverse dictionary model. (A course project of In
 
 2. Considering the fact that the model was trained under pytorch1.9.0 on GPU, so if your pytorch version is below 1.9.0 then warning would occur yet not affecting functioning.
 
-3. reference
-Paper:Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
+3. reference paper:Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
 
-Model:https://github.com/thunlp/MultiRD
+4. reference code: https://github.com/thunlp/MultiRD
 
