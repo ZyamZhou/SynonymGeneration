@@ -10,3 +10,4 @@ Generate synonyms based on the reverse dictionary model. (A course project of In
 
 4. reference code: https://github.com/thunlp/MultiRD
 
+5.Contact me by: zimengzhou2@gmail.com
