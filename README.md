@@ -1,4 +1,4 @@
-# SynonymGeneration
+# SynonymGenerator
 Generate synonyms based on the reverse dictionary model. (A course project of Information foundation II)
 
 
