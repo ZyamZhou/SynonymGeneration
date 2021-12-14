@@ -11,7 +11,7 @@ Generate synonyms based on the reverse dictionary model. (A course project of In
 2. generate synonym from Chinese words: run ChineseGenerator.py
 
 # reference
-reference paper:Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
+reference paper: Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
 
 reference code: https://github.com/thunlp/MultiRD
 
@@ -19,5 +19,3 @@ reference code: https://github.com/thunlp/MultiRD
 zimengzhou2@gmail.com
 
 
-
-5. Contact me by: zimengzhou2@gmail.com
