@@ -10,6 +10,9 @@ Generate synonyms based on the reverse dictionary model. (A course project of In
 1. generate synonym from English words: run generator.py
 2. generate synonym from Chinese words: run ChineseGenerator.py
 
+# see display video
+https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sharing
+
 # reference
 reference paper: Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
 
