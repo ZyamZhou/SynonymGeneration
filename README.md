@@ -14,7 +14,7 @@ Generate synonyms based on the reverse dictionary model. (A course project of In
 https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sharing
 
 # reference
-reference paper: Lei Zhang. Multi-channel reverse dictionary model[J]. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
+reference paper: Lei Zhang. Multi-channel reverse dictionary model. Proceedings of the AAAI Conference on Artificial Intelligence,2020, 312--319 
 
 reference code: https://github.com/thunlp/MultiRD
 
