@@ -10,7 +10,7 @@ Generate synonyms based on the reverse dictionary model.
 1. generate synonym from English words: run generator.py
 2. generate synonym from Chinese words: run ChineseGenerator.py
 
-# see display video
+# demo videos
 https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sharing
 
 # reference
