@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sha
     journal={arXiv preprint arXiv:1912.08441},
   	year={2019}
 }
-[reference paper](@zhang2019multi)
+
 
  [reference code](https://github.com/thunlp/MultiRD)
 
