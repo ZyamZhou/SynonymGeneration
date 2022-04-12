@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sha
   	year={2019}
 }
 
-
+ [reference paper](https://arxiv.org/pdf/1912.08441.pdf)
  [reference code](https://github.com/thunlp/MultiRD)
 
 # contact me
