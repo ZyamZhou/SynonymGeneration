@@ -14,13 +14,6 @@ Generate synonyms based on the reverse dictionary model.
 https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sharing
 
 # reference
-@article{zhang2019multi
-    title={Multi-channel Reverse Dictionary Model},
-    author={Zhang, Lei and Qi, Fanchao and Liu, Zhiyuan and Wang, Yasheng and Liu, Qun and Sun, Maosong},
-    journal={arXiv preprint arXiv:1912.08441},
-  	year={2019}
-}
-
  [reference paper](https://arxiv.org/pdf/1912.08441.pdf)
  [reference code](https://github.com/thunlp/MultiRD)
 
