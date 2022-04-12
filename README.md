@@ -20,8 +20,9 @@ https://drive.google.com/drive/folders/1OXFezJhm3M7oSwY7Meyvulf4m9C1if3W?usp=sha
     journal={arXiv preprint arXiv:1912.08441},
   	year={2019}
 }
+[reference paper](@zhang2019multi)
 
- model code [see](https://github.com/thunlp/MultiRD)
+ [reference code](https://github.com/thunlp/MultiRD)
 
 # contact me
 zimengzhou2@gmail.com
